@@ -36,7 +36,7 @@ A simple tool to generate a structured README file based on user input, ensuring
 4. Review the test results for any errors or failed tests.
 
 ## Walkthrough Video
-Watch the walkthrough video to see how the README Generator works: [Walkthrough Video](https://www.youtube.com/your-video-link)
+Watch the walkthrough video to see how the README Generator works: https://drive.google.com/file/d/1bbYnI-v2dE56vWeF_4bTTTff8Eb9z6zb/view?usp=sharing
 
 ## Questions
 If you have any questions, please feel free to contact me:
